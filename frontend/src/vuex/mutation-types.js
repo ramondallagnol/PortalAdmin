@@ -1,0 +1,12 @@
+export const FETCH_PRODUCT = 'FETCH_PRODUCT'
+export const FETCH_BRAND = 'FETCH_BRAND'
+export const ADD_BRAND = 'ADD_BRAND'
+export const DELETE_BRAND = 'DELETE_BRAND'
+export const UPDATE_BRAND = 'UPDATE_BRAND'
+export const UPDATE_BRAND_DESCRIPTION = 'UPDATE_BRAND_DESCRIPTION'
+export const EDIT_BRAND = 'EDIT_BRAND'
+export const SET_TOKEN = 'SET_TOKEN'
+export const SET_USER = 'SET_USER'
+export const ADD_USER = 'ADD_USER'
+export const FETCH_USERS = 'FETCH_USERS'
+
